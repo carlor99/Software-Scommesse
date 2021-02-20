@@ -1,0 +1,91 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+DEN1,SonderjyskE,FC Midtjylland,2,0,H,0,0,D
+DEN1,AC Horsens,Randers FC,0,3,A,0,0,D
+DEN1,Lyngby,Aalborg BK,0,0,D,0,0,D
+DEN1,Brondby IF,Nordsjaelland,3,2,H,0,2,A
+DEN1,Odense BK,FC Kobenhavn,3,2,H,3,0,H
+DEN1,AGF Aarhus,Vejle BK,4,2,H,2,0,H
+DEN1,FC Midtjylland,Lyngby,1,0,H,1,0,H
+DEN1,FC Kobenhavn,Brondby IF,1,2,A,1,1,D
+DEN1,Odense BK,Nordsjaelland,1,1,D,0,0,D
+DEN1,Randers FC,AGF Aarhus,1,1,D,0,0,D
+DEN1,Vejle BK,SonderjyskE,4,1,H,1,0,H
+DEN1,Aalborg BK,AC Horsens,1,0,H,0,0,D
+DEN1,FC Midtjylland,Randers FC,1,0,H,1,0,H
+DEN1,AGF Aarhus,Odense BK,4,2,H,2,1,H
+DEN1,SonderjyskE,Aalborg BK,3,1,H,1,0,H
+DEN1,Brondby IF,AC Horsens,2,1,H,2,0,H
+DEN1,Vejle BK,FC Kobenhavn,2,2,D,0,1,A
+DEN1,Nordsjaelland,Lyngby,4,1,H,0,1,A
+DEN1,Randers FC,Brondby IF,1,2,A,0,1,A
+DEN1,Lyngby,SonderjyskE,2,2,D,1,1,D
+DEN1,Odense BK,Vejle BK,0,1,A,0,0,D
+DEN1,Aalborg BK,AGF Aarhus,1,1,D,0,1,A
+DEN1,AC Horsens,FC Midtjylland,2,2,D,2,2,D
+DEN1,FC Kobenhavn,Nordsjaelland,3,2,H,2,1,H
+DEN1,FC Midtjylland,Odense BK,3,1,H,0,1,A
+DEN1,AGF Aarhus,AC Horsens,3,0,H,1,0,H
+DEN1,Vejle BK,Lyngby,3,2,H,1,1,D
+DEN1,SonderjyskE,Brondby IF,2,0,H,0,0,D
+DEN1,FC Kobenhavn,Aalborg BK,1,2,A,0,2,A
+DEN1,Nordsjaelland,Randers FC,1,0,H,0,0,D
+DEN1,Lyngby,Odense BK,0,3,A,0,2,A
+DEN1,Brondby IF,FC Midtjylland,2,3,A,1,0,H
+DEN1,AC Horsens,Nordsjaelland,1,1,D,1,0,H
+DEN1,Randers FC,SonderjyskE,1,2,A,1,2,A
+DEN1,AGF Aarhus,FC Kobenhavn,0,1,A,0,1,A
+DEN1,Aalborg BK,Vejle BK,1,3,A,1,1,D
+DEN1,Vejle BK,Randers FC,0,3,A,0,0,D
+DEN1,Nordsjaelland,FC Midtjylland,4,1,H,2,1,H
+DEN1,Odense BK,AC Horsens,1,0,H,1,0,H
+DEN1,FC Kobenhavn,Lyngby,4,2,H,2,0,H
+DEN1,Aalborg BK,Brondby IF,2,1,H,1,1,D
+DEN1,SonderjyskE,AGF Aarhus,1,1,D,1,1,D
+DEN1,Randers FC,Aalborg BK,1,2,A,0,1,A
+DEN1,Lyngby,AGF Aarhus,1,2,A,1,0,H
+DEN1,Nordsjaelland,Vejle BK,1,1,D,1,1,D
+DEN1,Brondby IF,Odense BK,3,1,H,1,0,H
+DEN1,FC Midtjylland,FC Kobenhavn,4,0,H,2,0,H
+DEN1,AC Horsens,SonderjyskE,0,3,A,0,1,A
+DEN1,Lyngby,AC Horsens,1,1,D,1,1,D
+DEN1,Aalborg BK,Nordsjaelland,1,1,D,0,1,A
+DEN1,Odense BK,SonderjyskE,1,1,D,0,0,D
+DEN1,AGF Aarhus,FC Midtjylland,1,2,A,0,2,A
+DEN1,Vejle BK,Brondby IF,0,2,A,0,1,A
+DEN1,FC Kobenhavn,Randers FC,1,2,A,0,1,A
+DEN1,Randers FC,Odense BK,2,1,H,1,0,H
+DEN1,FC Midtjylland,Aalborg BK,0,0,D,0,0,D
+DEN1,AC Horsens,Vejle BK,3,1,H,2,0,H
+DEN1,SonderjyskE,FC Kobenhavn,1,3,A,0,2,A
+DEN1,Nordsjaelland,AGF Aarhus,3,1,H,2,1,H
+DEN1,Brondby IF,Lyngby,4,1,H,1,0,H
+DEN1,Odense BK,Aalborg BK,2,1,H,0,1,A
+DEN1,Vejle BK,FC Midtjylland,0,2,A,0,1,A
+DEN1,SonderjyskE,Nordsjaelland,2,1,H,1,0,H
+DEN1,FC Kobenhavn,AC Horsens,2,0,H,2,0,H
+DEN1,Lyngby,Randers FC,0,3,A,0,0,D
+DEN1,AGF Aarhus,Brondby IF,3,1,H,1,1,D
+DEN1,Randers FC,Vejle BK,3,1,H,0,1,A
+DEN1,Aalborg BK,Lyngby,3,2,H,2,2,D
+DEN1,AC Horsens,AGF Aarhus,1,2,A,0,1,A
+DEN1,Nordsjaelland,FC Kobenhavn,0,1,A,0,0,D
+DEN1,Brondby IF,SonderjyskE,2,1,H,1,1,D
+DEN1,Odense BK,FC Midtjylland,1,1,D,1,0,H
+DEN1,Lyngby,Vejle BK,0,0,D,0,0,D
+DEN1,SonderjyskE,Randers FC,0,1,A,0,0,D
+DEN1,AGF Aarhus,Aalborg BK,3,0,H,3,0,H
+DEN1,FC Kobenhavn,Odense BK,1,1,D,1,0,H
+DEN1,AC Horsens,Brondby IF,1,2,A,0,1,A
+DEN1,FC Midtjylland,Nordsjaelland,3,1,H,2,1,H
+DEN1,Randers FC,AC Horsens,3,0,H,2,0,H
+DEN1,Vejle BK,AGF Aarhus,0,0,D,0,0,D
+DEN1,Odense BK,Lyngby,0,1,A,0,0,D
+DEN1,Aalborg BK,FC Kobenhavn,2,3,A,2,0,H
+DEN1,FC Midtjylland,SonderjyskE,1,2,A,0,1,A
+DEN1,Nordsjaelland,Brondby IF,0,1,A,0,1,A
+DEN1,Nordsjaelland,Odense BK,0,2,A,0,1,A
+DEN1,SonderjyskE,Vejle BK,0,1,A,0,0,D
+DEN1,AC Horsens,FC Kobenhavn,0,2,A,0,2,A
+DEN1,AGF Aarhus,Lyngby,1,0,H,0,0,D
+DEN1,Brondby IF,Aalborg BK,1,1,D,0,0,D
+DEN1,Randers FC,FC Midtjylland,1,2,A,0,0,D

@@ -1,0 +1,211 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA1,Fiorentina,Torino,1,0,H,0,0,D
+ITA1,Hellas Verona,AS Roma,3,0,H,3,0,H
+ITA1,Parma,Napoli,0,2,A,0,0,D
+ITA1,Genoa,Crotone,4,1,H,3,1,H
+ITA1,Sassuolo,Cagliari,1,1,D,0,0,D
+ITA1,Juventus,Sampdoria,3,0,H,1,0,H
+ITA1,AC Milan,Bologna,2,0,H,1,0,H
+ITA1,Torino,Atalanta,2,4,A,2,3,A
+ITA1,Cagliari,Lazio,0,2,A,0,1,A
+ITA1,Sampdoria,Benevento,2,3,A,2,1,H
+ITA1,Inter Milan,Fiorentina,4,3,H,1,1,D
+ITA1,Spezia,Sassuolo,1,4,A,1,1,D
+ITA1,Hellas Verona,Udinese,1,0,H,0,0,D
+ITA1,Crotone,AC Milan,0,2,A,0,1,A
+ITA1,Napoli,Genoa,6,0,H,1,0,H
+ITA1,AS Roma,Juventus,2,2,D,2,1,H
+ITA1,Bologna,Parma,4,1,H,2,0,H
+ITA1,Benevento,Inter Milan,2,5,A,1,4,A
+ITA1,Udinese,Spezia,0,2,A,0,1,A
+ITA1,Lazio,Atalanta,1,4,A,0,3,A
+ITA1,Fiorentina,Sampdoria,1,2,A,0,1,A
+ITA1,Sassuolo,Crotone,4,1,H,1,0,H
+ITA1,Udinese,AS Roma,0,1,A,0,0,D
+ITA1,Atalanta,Cagliari,5,2,H,4,1,H
+ITA1,Benevento,Bologna,1,0,H,0,0,D
+ITA1,Lazio,Inter Milan,1,1,D,0,1,A
+ITA1,Parma,Hellas Verona,1,0,H,1,0,H
+ITA1,AC Milan,Spezia,3,0,H,0,0,D
+ITA1,Napoli,Atalanta,4,1,H,4,0,H
+ITA1,Inter Milan,AC Milan,1,2,A,1,2,A
+ITA1,Sampdoria,Lazio,3,0,H,2,0,H
+ITA1,Crotone,Juventus,1,1,D,1,1,D
+ITA1,Bologna,Sassuolo,3,4,A,2,1,H
+ITA1,Spezia,Fiorentina,2,2,D,1,2,A
+ITA1,Torino,Cagliari,2,3,A,1,2,A
+ITA1,Udinese,Parma,3,2,H,1,1,D
+ITA1,AS Roma,Benevento,5,2,H,2,1,H
+ITA1,Hellas Verona,Genoa,0,0,D,0,0,D
+ITA1,Sassuolo,Torino,3,3,D,0,1,A
+ITA1,Atalanta,Sampdoria,1,3,A,0,1,A
+ITA1,Genoa,Inter Milan,0,2,A,0,0,D
+ITA1,Lazio,Bologna,2,1,H,0,0,D
+ITA1,Cagliari,Crotone,4,2,H,3,2,H
+ITA1,Benevento,Napoli,1,2,A,1,0,H
+ITA1,Parma,Spezia,2,2,D,1,2,A
+ITA1,Fiorentina,Udinese,3,2,H,2,1,H
+ITA1,Juventus,Hellas Verona,1,1,D,0,0,D
+ITA1,AC Milan,AS Roma,3,3,D,1,1,D
+ITA1,Crotone,Atalanta,1,2,A,1,2,A
+ITA1,Inter Milan,Parma,2,2,D,0,0,D
+ITA1,Bologna,Cagliari,3,2,H,1,1,D
+ITA1,Udinese,AC Milan,1,2,A,0,1,A
+ITA1,Spezia,Juventus,1,4,A,1,1,D
+ITA1,Torino,Lazio,3,4,A,2,1,H
+ITA1,AS Roma,Fiorentina,2,0,H,1,0,H
+ITA1,Napoli,Sassuolo,0,2,A,0,0,D
+ITA1,Sampdoria,Genoa,1,1,D,1,1,D
+ITA1,Hellas Verona,Benevento,3,1,H,1,0,H
+ITA1,Genoa,Torino,1,2,A,0,2,A
+ITA1,Sassuolo,Udinese,0,0,D,0,0,D
+ITA1,Cagliari,Sampdoria,2,0,H,0,0,D
+ITA1,Benevento,Spezia,0,3,A,0,1,A
+ITA1,Parma,Fiorentina,0,0,D,0,0,D
+ITA1,Lazio,Juventus,1,1,D,0,1,A
+ITA1,Atalanta,Inter Milan,1,1,D,0,0,D
+ITA1,Genoa,AS Roma,1,3,A,0,1,A
+ITA1,Torino,Crotone,0,0,D,0,0,D
+ITA1,Bologna,Napoli,0,1,A,0,1,A
+ITA1,AC Milan,Hellas Verona,2,2,D,1,2,A
+ITA1,Crotone,Lazio,0,2,A,0,1,A
+ITA1,Spezia,Atalanta,0,0,D,0,0,D
+ITA1,Juventus,Cagliari,2,0,H,2,0,H
+ITA1,Fiorentina,Benevento,0,1,A,0,0,D
+ITA1,AS Roma,Parma,3,0,H,3,0,H
+ITA1,Hellas Verona,Sassuolo,0,2,A,0,1,A
+ITA1,Inter Milan,Torino,4,2,H,0,1,A
+ITA1,Sampdoria,Bologna,1,2,A,1,1,D
+ITA1,Udinese,Genoa,1,0,H,1,0,H
+ITA1,Napoli,AC Milan,1,3,A,0,1,A
+ITA1,Sassuolo,Inter Milan,0,3,A,0,2,A
+ITA1,Benevento,Juventus,1,1,D,1,1,D
+ITA1,Atalanta,Hellas Verona,0,2,A,0,0,D
+ITA1,Lazio,Udinese,1,3,A,0,2,A
+ITA1,AC Milan,Fiorentina,2,0,H,2,0,H
+ITA1,Bologna,Crotone,1,0,H,1,0,H
+ITA1,Cagliari,Spezia,2,2,D,0,1,A
+ITA1,Napoli,AS Roma,4,0,H,1,0,H
+ITA1,Torino,Sampdoria,2,2,D,1,0,H
+ITA1,Genoa,Parma,1,2,A,0,1,A
+ITA1,Spezia,Lazio,1,2,A,0,2,A
+ITA1,Juventus,Torino,2,1,H,0,1,A
+ITA1,Inter Milan,Bologna,3,1,H,2,0,H
+ITA1,Hellas Verona,Cagliari,1,1,D,1,0,H
+ITA1,AS Roma,Sassuolo,0,0,D,0,0,D
+ITA1,Parma,Benevento,0,0,D,0,0,D
+ITA1,Crotone,Napoli,0,4,A,0,1,A
+ITA1,Sampdoria,AC Milan,1,2,A,0,1,A
+ITA1,Fiorentina,Genoa,1,1,D,0,0,D
+ITA1,Sassuolo,Benevento,1,0,H,1,0,H
+ITA1,Crotone,Spezia,4,1,H,1,1,D
+ITA1,Torino,Udinese,2,3,A,0,1,A
+ITA1,Lazio,Hellas Verona,1,2,A,0,1,A
+ITA1,Cagliari,Inter Milan,1,3,A,1,0,H
+ITA1,Atalanta,Fiorentina,3,0,H,1,0,H
+ITA1,Bologna,AS Roma,1,5,A,1,5,A
+ITA1,Napoli,Sampdoria,2,1,H,0,1,A
+ITA1,Genoa,Juventus,1,3,A,0,0,D
+ITA1,AC Milan,Parma,2,2,D,0,1,A
+ITA1,Udinese,Crotone,0,0,D,0,0,D
+ITA1,Benevento,Lazio,1,1,D,1,1,D
+ITA1,Juventus,Atalanta,1,1,D,1,0,H
+ITA1,Fiorentina,Sassuolo,1,1,D,1,1,D
+ITA1,Genoa,AC Milan,2,2,D,0,0,D
+ITA1,Hellas Verona,Sampdoria,1,2,A,0,1,A
+ITA1,Inter Milan,Napoli,1,0,H,0,0,D
+ITA1,Parma,Cagliari,0,0,D,0,0,D
+ITA1,Spezia,Bologna,2,2,D,1,0,H
+ITA1,AS Roma,Torino,3,1,H,2,0,H
+ITA1,Fiorentina,Hellas Verona,1,1,D,1,1,D
+ITA1,Sampdoria,Crotone,3,1,H,2,1,H
+ITA1,Parma,Juventus,0,4,A,0,2,A
+ITA1,Torino,Bologna,1,1,D,0,0,D
+ITA1,Benevento,Genoa,2,0,H,0,0,D
+ITA1,Cagliari,Udinese,1,1,D,1,0,H
+ITA1,Inter Milan,Spezia,2,1,H,0,0,D
+ITA1,Sassuolo,AC Milan,1,2,A,0,2,A
+ITA1,Atalanta,AS Roma,4,1,H,0,1,A
+ITA1,Lazio,Napoli,2,0,H,1,0,H
+ITA1,Crotone,Parma,2,1,H,2,0,H
+ITA1,Juventus,Fiorentina,0,3,A,0,1,A
+ITA1,Hellas Verona,Inter Milan,1,2,A,0,0,D
+ITA1,AC Milan,Lazio,3,2,H,2,1,H
+ITA1,AS Roma,Cagliari,3,2,H,1,0,H
+ITA1,Bologna,Atalanta,2,2,D,0,2,A
+ITA1,Napoli,Torino,1,1,D,0,0,D
+ITA1,Sampdoria,Sassuolo,2,3,A,0,1,A
+ITA1,Spezia,Genoa,1,2,A,1,1,D
+ITA1,Udinese,Benevento,0,2,A,0,1,A
+ITA1,Inter Milan,Crotone,6,2,H,2,2,D
+ITA1,AS Roma,Sampdoria,1,0,H,0,0,D
+ITA1,Atalanta,Sassuolo,5,1,H,2,0,H
+ITA1,Cagliari,Napoli,1,4,A,0,1,A
+ITA1,Fiorentina,Bologna,0,0,D,0,0,D
+ITA1,Genoa,Lazio,1,1,D,0,1,A
+ITA1,Parma,Torino,0,3,A,0,1,A
+ITA1,Spezia,Hellas Verona,0,1,A,0,0,D
+ITA1,Benevento,AC Milan,0,2,A,0,1,A
+ITA1,Juventus,Udinese,4,1,H,1,0,H
+ITA1,Cagliari,Benevento,1,2,A,1,2,A
+ITA1,Atalanta,Parma,3,0,H,1,0,H
+ITA1,Bologna,Udinese,2,2,D,2,1,H
+ITA1,Crotone,AS Roma,1,3,A,0,3,A
+ITA1,Lazio,Fiorentina,2,1,H,1,0,H
+ITA1,Sampdoria,Inter Milan,2,1,H,2,0,H
+ITA1,Sassuolo,Genoa,2,1,H,0,0,D
+ITA1,Torino,Hellas Verona,1,1,D,0,0,D
+ITA1,Napoli,Spezia,1,2,A,0,0,D
+ITA1,AC Milan,Juventus,1,3,A,1,1,D
+ITA1,Benevento,Atalanta,1,4,A,0,1,A
+ITA1,Genoa,Bologna,2,0,H,1,0,H
+ITA1,AC Milan,Torino,2,0,H,2,0,H
+ITA1,AS Roma,Inter Milan,2,2,D,1,0,H
+ITA1,Hellas Verona,Crotone,2,1,H,2,0,H
+ITA1,Parma,Lazio,0,2,A,0,0,D
+ITA1,Udinese,Napoli,1,2,A,1,1,D
+ITA1,Fiorentina,Cagliari,1,0,H,0,0,D
+ITA1,Juventus,Sassuolo,3,1,H,0,0,D
+ITA1,Spezia,Sampdoria,2,1,H,1,1,D
+ITA1,Lazio,AS Roma,3,0,H,2,0,H
+ITA1,Bologna,Hellas Verona,1,0,H,1,0,H
+ITA1,Torino,Spezia,0,0,D,0,0,D
+ITA1,Sampdoria,Udinese,2,1,H,0,0,D
+ITA1,Napoli,Fiorentina,6,0,H,4,0,H
+ITA1,Crotone,Benevento,4,1,H,2,0,H
+ITA1,Sassuolo,Parma,1,1,D,0,1,A
+ITA1,Atalanta,Genoa,0,0,D,0,0,D
+ITA1,Inter Milan,Juventus,2,0,H,1,0,H
+ITA1,Cagliari,AC Milan,0,2,A,0,1,A
+ITA1,Udinese,Atalanta,1,1,D,1,1,D
+ITA1,Benevento,Torino,2,2,D,1,0,H
+ITA1,AS Roma,Spezia,4,3,H,1,1,D
+ITA1,AC Milan,Atalanta,0,3,A,0,1,A
+ITA1,Udinese,Inter Milan,0,0,D,0,0,D
+ITA1,Fiorentina,Crotone,2,1,H,2,0,H
+ITA1,Juventus,Bologna,2,0,H,1,0,H
+ITA1,Genoa,Cagliari,1,0,H,1,0,H
+ITA1,Hellas Verona,Napoli,3,1,H,1,1,D
+ITA1,Lazio,Sassuolo,2,1,H,1,1,D
+ITA1,Parma,Sampdoria,0,2,A,0,2,A
+ITA1,Torino,Fiorentina,1,1,D,0,0,D
+ITA1,Bologna,AC Milan,1,2,A,0,1,A
+ITA1,Sampdoria,Juventus,0,2,A,0,1,A
+ITA1,Inter Milan,Benevento,4,0,H,1,0,H
+ITA1,Spezia,Udinese,0,1,A,0,0,D
+ITA1,Atalanta,Lazio,1,3,A,0,1,A
+ITA1,Cagliari,Sassuolo,1,1,D,0,0,D
+ITA1,Crotone,Genoa,0,3,A,0,2,A
+ITA1,Napoli,Parma,2,0,H,1,0,H
+ITA1,AS Roma,Hellas Verona,3,1,H,3,0,H
+ITA1,Fiorentina,Inter Milan,0,2,A,0,1,A
+ITA1,Atalanta,Torino,3,3,D,3,2,H
+ITA1,Sassuolo,Spezia,1,2,A,1,1,D
+ITA1,Juventus,AS Roma,2,0,H,1,0,H
+ITA1,Genoa,Napoli,2,1,H,2,0,H
+ITA1,Benevento,Sampdoria,1,1,D,0,0,D
+ITA1,AC Milan,Crotone,4,0,H,1,0,H
+ITA1,Udinese,Hellas Verona,2,0,H,0,0,D
+ITA1,Parma,Bologna,0,3,A,0,2,A
+ITA1,Lazio,Cagliari,1,0,H,0,0,D
+ITA1,Bologna,Benevento,1,1,D,1,0,H

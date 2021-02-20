@@ -1,0 +1,236 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL1,Club Brugge,Charleroi,0,1,A,0,0,D
+BEL1,Antwerp,Mouscron,1,1,D,0,0,D
+BEL1,Standard Liege,Cercle Brugge,1,0,H,0,0,D
+BEL1,Sint-Truiden,Gent,2,1,H,1,1,D
+BEL1,Zulte-Waregem,KRC Genk,1,2,A,1,0,H
+BEL1,KV Mechelen,Anderlecht,2,2,D,0,0,D
+BEL1,Kortrijk,Beveren,1,3,A,0,1,A
+BEL1,OH Leuven,Eupen,1,1,D,0,0,D
+BEL1,Oostende,Beerschot-Wil.,1,2,A,0,1,A
+BEL1,Mouscron,KV Mechelen,0,1,A,0,1,A
+BEL1,KRC Genk,OH Leuven,1,1,D,0,0,D
+BEL1,Charleroi,Oostende,1,0,H,0,0,D
+BEL1,Gent,Kortrijk,1,2,A,0,1,A
+BEL1,Cercle Brugge,Antwerp,2,1,H,0,1,A
+BEL1,Beerschot-Wil.,Zulte-Waregem,3,1,H,1,0,H
+BEL1,Eupen,Club Brugge,0,4,A,0,1,A
+BEL1,Anderlecht,Sint-Truiden,3,1,H,1,0,H
+BEL1,Beveren,Standard Liege,1,2,A,0,0,D
+BEL1,Kortrijk,Eupen,0,0,D,0,0,D
+BEL1,Zulte-Waregem,Beveren,4,1,H,1,0,H
+BEL1,KV Mechelen,Cercle Brugge,2,3,A,1,0,H
+BEL1,OH Leuven,Charleroi,1,3,A,1,1,D
+BEL1,Antwerp,Gent,1,0,H,1,0,H
+BEL1,Standard Liege,KRC Genk,0,0,D,0,0,D
+BEL1,Club Brugge,Beerschot-Wil.,0,1,A,0,1,A
+BEL1,Anderlecht,Mouscron,1,1,D,0,0,D
+BEL1,Sint-Truiden,Oostende,0,0,D,0,0,D
+BEL1,Oostende,Anderlecht,2,2,D,2,1,H
+BEL1,Eupen,Sint-Truiden,1,1,D,1,0,H
+BEL1,Beveren,OH Leuven,1,3,A,0,1,A
+BEL1,Cercle Brugge,Kortrijk,0,1,A,0,0,D
+BEL1,Mouscron,Zulte-Waregem,0,1,A,0,0,D
+BEL1,KRC Genk,Club Brugge,1,2,A,0,1,A
+BEL1,Beerschot-Wil.,Standard Liege,0,3,A,0,1,A
+BEL1,Charleroi,Antwerp,2,0,H,1,0,H
+BEL1,Gent,KV Mechelen,1,0,H,1,0,H
+BEL1,Eupen,Gent,2,1,H,1,0,H
+BEL1,KV Mechelen,Oostende,0,1,A,0,0,D
+BEL1,OH Leuven,Standard Liege,1,0,H,0,0,D
+BEL1,Club Brugge,Beveren,4,1,H,2,1,H
+BEL1,Anderlecht,Cercle Brugge,2,0,H,1,0,H
+BEL1,Sint-Truiden,Antwerp,2,3,A,2,2,D
+BEL1,Zulte-Waregem,Charleroi,0,2,A,0,0,D
+BEL1,Kortrijk,Mouscron,3,0,H,0,0,D
+BEL1,Beerschot-Wil.,KRC Genk,5,2,H,1,1,D
+BEL1,Charleroi,Beerschot-Wil.,3,1,H,1,0,H
+BEL1,Oostende,OH Leuven,3,1,H,1,0,H
+BEL1,Mouscron,Gent,0,1,A,0,1,A
+BEL1,Beveren,Anderlecht,2,4,A,0,2,A
+BEL1,Zulte-Waregem,Club Brugge,0,6,A,0,4,A
+BEL1,Standard Liege,Kortrijk,2,1,H,2,1,H
+BEL1,KRC Genk,KV Mechelen,3,1,H,1,1,D
+BEL1,Antwerp,Eupen,2,2,D,0,1,A
+BEL1,Cercle Brugge,Sint-Truiden,3,0,H,2,0,H
+BEL1,Kortrijk,Antwerp,1,3,A,1,0,H
+BEL1,Beerschot-Wil.,Beveren,3,2,H,1,2,A
+BEL1,KV Mechelen,Sint-Truiden,2,0,H,0,0,D
+BEL1,Gent,OH Leuven,2,3,A,0,2,A
+BEL1,Standard Liege,Zulte-Waregem,2,2,D,0,1,A
+BEL1,Anderlecht,Eupen,1,1,D,0,0,D
+BEL1,Club Brugge,Cercle Brugge,2,1,H,1,0,H
+BEL1,Mouscron,Charleroi,1,1,D,1,1,D
+BEL1,KRC Genk,Oostende,2,2,D,1,1,D
+BEL1,Antwerp,KV Mechelen,4,1,H,3,0,H
+BEL1,Beveren,KRC Genk,1,1,D,0,0,D
+BEL1,Eupen,Cercle Brugge,1,2,A,1,1,D
+BEL1,OH Leuven,Zulte-Waregem,2,1,H,1,0,H
+BEL1,Sint-Truiden,Kortrijk,0,0,D,0,0,D
+BEL1,Club Brugge,Anderlecht,3,0,H,1,0,H
+BEL1,Gent,Beerschot-Wil.,5,1,H,3,0,H
+BEL1,Charleroi,Standard Liege,1,2,A,0,0,D
+BEL1,Oostende,Mouscron,3,0,H,0,0,D
+BEL1,Cercle Brugge,Gent,5,2,H,2,1,H
+BEL1,Beerschot-Wil.,Sint-Truiden,6,3,H,5,1,H
+BEL1,KV Mechelen,Kortrijk,1,2,A,0,0,D
+BEL1,Standard Liege,Club Brugge,1,1,D,0,1,A
+BEL1,Zulte-Waregem,Antwerp,1,3,A,1,0,H
+BEL1,Mouscron,Eupen,0,2,A,0,0,D
+BEL1,KRC Genk,Charleroi,2,1,H,1,0,H
+BEL1,Anderlecht,OH Leuven,2,2,D,2,0,H
+BEL1,Kortrijk,Anderlecht,1,3,A,0,2,A
+BEL1,OH Leuven,Club Brugge,2,1,H,1,1,D
+BEL1,Antwerp,Beerschot-Wil.,3,2,H,2,1,H
+BEL1,Oostende,Zulte-Waregem,3,0,H,3,0,H
+BEL1,Sint-Truiden,Standard Liege,2,0,H,1,0,H
+BEL1,Gent,KRC Genk,1,2,A,1,1,D
+BEL1,KRC Genk,Eupen,4,0,H,1,0,H
+BEL1,Beerschot-Wil.,OH Leuven,4,2,H,2,1,H
+BEL1,Charleroi,Cercle Brugge,3,0,H,0,0,D
+BEL1,Club Brugge,KV Mechelen,2,2,D,2,1,H
+BEL1,Anderlecht,Antwerp,1,0,H,0,0,D
+BEL1,Standard Liege,Oostende,1,0,H,0,0,D
+BEL1,Beveren,Gent,1,4,A,0,4,A
+BEL1,Zulte-Waregem,Kortrijk,1,1,D,0,0,D
+BEL1,KV Mechelen,Charleroi,3,3,D,2,1,H
+BEL1,Kortrijk,Beerschot-Wil.,5,5,D,2,1,H
+BEL1,Eupen,Beveren,1,1,D,0,1,A
+BEL1,Sint-Truiden,KRC Genk,1,2,A,1,2,A
+BEL1,Antwerp,Standard Liege,1,1,D,1,0,H
+BEL1,Oostende,Club Brugge,1,3,A,1,1,D
+BEL1,Gent,Anderlecht,1,1,D,0,1,A
+BEL1,Cercle Brugge,Zulte-Waregem,1,3,A,0,2,A
+BEL1,Standard Liege,Eupen,2,2,D,1,1,D
+BEL1,Beveren,Cercle Brugge,0,2,A,0,1,A
+BEL1,Oostende,Antwerp,1,1,D,0,0,D
+BEL1,Club Brugge,Kortrijk,1,0,H,0,0,D
+BEL1,Beerschot-Wil.,Anderlecht,2,1,H,1,0,H
+BEL1,Zulte-Waregem,KV Mechelen,1,2,A,0,1,A
+BEL1,Charleroi,Gent,0,1,A,0,1,A
+BEL1,KRC Genk,Mouscron,4,1,H,1,1,D
+BEL1,OH Leuven,Sint-Truiden,2,2,D,1,1,D
+BEL1,Beveren,Oostende,2,0,H,0,0,D
+BEL1,Cercle Brugge,Mouscron,1,2,A,0,0,D
+BEL1,Eupen,Charleroi,3,1,H,1,0,H
+BEL1,Sint-Truiden,Beveren,1,1,D,1,0,H
+BEL1,Cercle Brugge,KRC Genk,1,5,A,0,4,A
+BEL1,Mouscron,Club Brugge,0,0,D,0,0,D
+BEL1,KV Mechelen,Beerschot-Wil.,2,3,A,2,1,H
+BEL1,Gent,Zulte-Waregem,0,3,A,0,2,A
+BEL1,Anderlecht,Standard Liege,0,0,D,0,0,D
+BEL1,Kortrijk,Oostende,3,1,H,1,1,D
+BEL1,Antwerp,OH Leuven,3,2,H,2,2,D
+BEL1,Mouscron,Sint-Truiden,3,2,H,1,0,H
+BEL1,Charleroi,Beveren,0,2,A,0,1,A
+BEL1,Eupen,KV Mechelen,1,1,D,1,0,H
+BEL1,Zulte-Waregem,Anderlecht,2,2,D,1,1,D
+BEL1,Beveren,Mouscron,2,0,H,0,0,D
+BEL1,OH Leuven,Cercle Brugge,2,1,H,1,0,H
+BEL1,Club Brugge,Sint-Truiden,1,0,H,0,0,D
+BEL1,KRC Genk,Antwerp,4,2,H,2,1,H
+BEL1,Beerschot-Wil.,Eupen,0,1,A,0,1,A
+BEL1,Standard Liege,KV Mechelen,2,2,D,1,0,H
+BEL1,Oostende,Gent,2,1,H,0,1,A
+BEL1,Charleroi,Kortrijk,0,0,D,0,0,D
+BEL1,OH Leuven,Mouscron,2,0,H,0,0,D
+BEL1,Anderlecht,KRC Genk,1,0,H,0,0,D
+BEL1,Mouscron,Beerschot-Wil.,3,1,H,1,0,H
+BEL1,Cercle Brugge,Oostende,0,1,A,0,1,A
+BEL1,Kortrijk,OH Leuven,0,3,A,0,0,D
+BEL1,Sint-Truiden,Charleroi,1,2,A,1,1,D
+BEL1,Antwerp,Club Brugge,0,2,A,0,1,A
+BEL1,Gent,Standard Liege,2,1,H,1,1,D
+BEL1,KV Mechelen,Beveren,2,3,A,1,0,H
+BEL1,Cercle Brugge,Charleroi,3,4,A,2,0,H
+BEL1,Mouscron,OH Leuven,2,2,D,0,1,A
+BEL1,Anderlecht,Oostende,2,1,H,1,0,H
+BEL1,Antwerp,Zulte-Waregem,0,1,A,0,1,A
+BEL1,Gent,Beveren,3,0,H,1,0,H
+BEL1,Kortrijk,Standard Liege,2,1,H,2,0,H
+BEL1,KV Mechelen,Club Brugge,0,3,A,0,0,D
+BEL1,Charleroi,Anderlecht,1,0,H,0,0,D
+BEL1,Zulte-Waregem,Sint-Truiden,0,2,A,0,0,D
+BEL1,KRC Genk,Kortrijk,2,0,H,1,0,H
+BEL1,Club Brugge,Gent,0,1,A,0,0,D
+BEL1,OH Leuven,KV Mechelen,1,2,A,0,2,A
+BEL1,Standard Liege,Mouscron,0,1,A,0,1,A
+BEL1,Beveren,Antwerp,0,3,A,0,3,A
+BEL1,Club Brugge,Eupen,3,0,H,0,0,D
+BEL1,Zulte-Waregem,Cercle Brugge,1,0,H,0,0,D
+BEL1,Kortrijk,Gent,1,0,H,0,0,D
+BEL1,OH Leuven,Oostende,1,2,A,1,0,H
+BEL1,Standard Liege,Sint-Truiden,1,2,A,0,2,A
+BEL1,Antwerp,Charleroi,2,1,H,0,0,D
+BEL1,KRC Genk,Beveren,1,1,D,1,1,D
+BEL1,Anderlecht,Beerschot-Wil.,2,0,H,1,0,H
+BEL1,KV Mechelen,Mouscron,2,1,H,1,0,H
+BEL1,Eupen,Zulte-Waregem,2,3,A,1,0,H
+BEL1,Sint-Truiden,Beerschot-Wil.,1,0,H,1,0,H
+BEL1,Eupen,KRC Genk,1,4,A,1,2,A
+BEL1,Zulte-Waregem,Mouscron,1,0,H,1,0,H
+BEL1,Cercle Brugge,Eupen,1,2,A,0,0,D
+BEL1,Kortrijk,KRC Genk,2,1,H,1,1,D
+BEL1,Oostende,Charleroi,3,2,H,1,1,D
+BEL1,KV Mechelen,Antwerp,3,0,H,0,0,D
+BEL1,Beerschot-Wil.,Gent,1,1,D,1,1,D
+BEL1,OH Leuven,Anderlecht,1,0,H,0,0,D
+BEL1,Sint-Truiden,Club Brugge,1,2,A,0,2,A
+BEL1,Standard Liege,Beveren,3,1,H,1,0,H
+BEL1,Oostende,Eupen,1,1,D,0,0,D
+BEL1,Beerschot-Wil.,Cercle Brugge,1,1,D,1,0,H
+BEL1,Eupen,Anderlecht,2,0,H,0,0,D
+BEL1,Oostende,Kortrijk,2,1,H,1,0,H
+BEL1,Beveren,Zulte-Waregem,1,5,A,0,2,A
+BEL1,Mouscron,KRC Genk,2,0,H,1,0,H
+BEL1,Charleroi,KV Mechelen,0,1,A,0,0,D
+BEL1,Gent,Antwerp,0,1,A,0,0,D
+BEL1,Cercle Brugge,Standard Liege,0,1,A,0,1,A
+BEL1,Beerschot-Wil.,Club Brugge,0,3,A,0,2,A
+BEL1,Sint-Truiden,OH Leuven,3,1,H,2,1,H
+BEL1,Mouscron,Beveren,1,1,D,0,0,D
+BEL1,Anderlecht,Charleroi,3,0,H,2,0,H
+BEL1,Kortrijk,Sint-Truiden,0,2,A,0,2,A
+BEL1,Eupen,Beerschot-Wil.,3,1,H,2,1,H
+BEL1,KV Mechelen,Standard Liege,0,4,A,0,1,A
+BEL1,Antwerp,Cercle Brugge,1,0,H,0,0,D
+BEL1,Club Brugge,Oostende,2,1,H,1,1,D
+BEL1,Zulte-Waregem,OH Leuven,2,3,A,2,1,H
+BEL1,KRC Genk,Gent,1,1,D,1,1,D
+BEL1,Anderlecht,Beveren,0,0,D,0,0,D
+BEL1,KV Mechelen,Eupen,3,0,H,1,0,H
+BEL1,Kortrijk,Cercle Brugge,1,2,A,1,2,A
+BEL1,Sint-Truiden,Mouscron,0,2,A,0,1,A
+BEL1,Antwerp,Oostende,1,2,A,1,1,D
+BEL1,Club Brugge,KRC Genk,3,2,H,1,2,A
+BEL1,Zulte-Waregem,Beerschot-Wil.,0,3,A,0,0,D
+BEL1,Standard Liege,Charleroi,3,2,H,2,1,H
+BEL1,OH Leuven,Gent,0,3,A,0,1,A
+BEL1,Beveren,KV Mechelen,2,3,A,0,2,A
+BEL1,Eupen,Antwerp,0,2,A,0,2,A
+BEL1,Mouscron,Anderlecht,1,1,D,1,0,H
+BEL1,Beerschot-Wil.,Kortrijk,0,0,D,0,0,D
+BEL1,KRC Genk,Zulte-Waregem,3,2,H,1,0,H
+BEL1,Charleroi,OH Leuven,1,1,D,0,1,A
+BEL1,Gent,Sint-Truiden,1,1,D,0,1,A
+BEL1,Cercle Brugge,Club Brugge,1,2,A,1,1,D
+BEL1,Oostende,Standard Liege,2,2,D,1,0,H
+BEL1,Antwerp,Beveren,3,2,H,1,1,D
+BEL1,KV Mechelen,KRC Genk,0,0,D,0,0,D
+BEL1,Eupen,Mouscron,1,1,D,1,0,H
+BEL1,OH Leuven,Beerschot-Wil.,0,1,A,0,0,D
+BEL1,Kortrijk,Charleroi,1,3,A,0,1,A
+BEL1,Club Brugge,Standard Liege,3,1,H,2,1,H
+BEL1,Zulte-Waregem,Oostende,2,1,H,1,1,D
+BEL1,Anderlecht,Gent,0,0,D,0,0,D
+BEL1,Sint-Truiden,Cercle Brugge,3,0,H,1,0,H
+BEL1,Mouscron,Kortrijk,0,3,A,0,2,A
+BEL1,Oostende,Sint-Truiden,3,1,H,1,0,H
+BEL1,Beveren,Club Brugge,0,2,A,0,1,A
+BEL1,Cercle Brugge,KV Mechelen,0,1,A,0,0,D
+BEL1,Standard Liege,OH Leuven,1,1,D,0,0,D
+BEL1,Beerschot-Wil.,Antwerp,1,2,A,0,0,D
+BEL1,Charleroi,Zulte-Waregem,1,1,D,1,0,H
+BEL1,KRC Genk,Anderlecht,1,2,A,1,2,A
+BEL1,Gent,Eupen,2,2,D,2,1,H
+BEL1,OH Leuven,Kortrijk,3,1,H,3,0,H

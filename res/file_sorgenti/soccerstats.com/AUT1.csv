@@ -1,0 +1,96 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUT1,Rapid Wien,Admira Wacker,4,1,H,2,0,H
+AUT1,LASK Linz,Austria Wien,1,0,H,1,0,H
+AUT1,R. Altach,Hartberg,1,1,D,1,0,H
+AUT1,Ried,WSG Tirol,3,2,H,1,2,A
+AUT1,St. Polten,Sturm Graz,0,0,D,0,0,D
+AUT1,Wolfsberger AC,Salzburg,1,3,A,0,2,A
+AUT1,Salzburg,R. Altach,4,1,H,2,1,H
+AUT1,Sturm Graz,Rapid Wien,1,1,D,0,0,D
+AUT1,WSG Tirol,LASK Linz,1,1,D,1,1,D
+AUT1,Admira Wacker,St. Polten,0,5,A,0,4,A
+AUT1,Hartberg,Wolfsberger AC,0,2,A,0,0,D
+AUT1,Austria Wien,Ried,2,1,H,1,0,H
+AUT1,R. Altach,WSG Tirol,0,2,A,0,1,A
+AUT1,Ried,Salzburg,1,3,A,0,1,A
+AUT1,St. Polten,Rapid Wien,1,2,A,1,2,A
+AUT1,Austria Wien,Admira Wacker,2,2,D,1,1,D
+AUT1,Hartberg,Sturm Graz,1,1,D,0,1,A
+AUT1,LASK Linz,Wolfsberger AC,3,1,H,1,0,H
+AUT1,Admira Wacker,Ried,3,1,H,2,0,H
+AUT1,Wolfsberger AC,St. Polten,2,4,A,1,3,A
+AUT1,WSG Tirol,Austria Wien,0,2,A,0,0,D
+AUT1,Salzburg,Hartberg,7,1,H,2,0,H
+AUT1,Sturm Graz,R. Altach,4,0,H,3,0,H
+AUT1,Rapid Wien,LASK Linz,3,0,H,2,0,H
+AUT1,Austria Wien,Salzburg,0,2,A,0,0,D
+AUT1,R. Altach,Admira Wacker,4,2,H,2,1,H
+AUT1,Ried,Sturm Graz,0,2,A,0,1,A
+AUT1,LASK Linz,St. Polten,4,0,H,1,0,H
+AUT1,WSG Tirol,Hartberg,1,1,D,1,0,H
+AUT1,Wolfsberger AC,Rapid Wien,3,4,A,0,2,A
+AUT1,Hartberg,Austria Wien,2,1,H,1,1,D
+AUT1,Salzburg,WSG Tirol,5,0,H,2,0,H
+AUT1,St. Polten,Ried,4,0,H,2,0,H
+AUT1,Admira Wacker,Wolfsberger AC,1,3,A,0,3,A
+AUT1,Rapid Wien,R. Altach,3,1,H,1,0,H
+AUT1,Sturm Graz,LASK Linz,0,2,A,0,1,A
+AUT1,R. Altach,Austria Wien,0,0,D,0,0,D
+AUT1,Ried,Hartberg,2,0,H,1,0,H
+AUT1,St. Polten,WSG Tirol,0,1,A,0,1,A
+AUT1,LASK Linz,Admira Wacker,4,0,H,1,0,H
+AUT1,Rapid Wien,Salzburg,1,1,D,0,1,A
+AUT1,Hartberg,LASK Linz,1,1,D,0,1,A
+AUT1,R. Altach,Wolfsberger AC,0,2,A,0,0,D
+AUT1,Salzburg,Sturm Graz,1,3,A,0,0,D
+AUT1,Austria Wien,St. Polten,1,1,D,0,1,A
+AUT1,WSG Tirol,Admira Wacker,3,0,H,2,0,H
+AUT1,Ried,Rapid Wien,4,3,H,2,1,H
+AUT1,Admira Wacker,Hartberg,2,3,A,2,1,H
+AUT1,St. Polten,Salzburg,2,8,A,1,4,A
+AUT1,Sturm Graz,WSG Tirol,1,0,H,0,0,D
+AUT1,LASK Linz,R. Altach,3,0,H,0,0,D
+AUT1,Wolfsberger AC,Ried,1,1,D,0,0,D
+AUT1,Rapid Wien,Austria Wien,1,1,D,1,1,D
+AUT1,Admira Wacker,Salzburg,1,0,H,0,0,D
+AUT1,Austria Wien,Sturm Graz,0,4,A,0,1,A
+AUT1,R. Altach,St. Polten,0,4,A,0,1,A
+AUT1,Hartberg,Rapid Wien,1,3,A,0,2,A
+AUT1,WSG Tirol,Wolfsberger AC,4,1,H,2,0,H
+AUT1,LASK Linz,Ried,3,0,H,2,0,H
+AUT1,Ried,R. Altach,1,4,A,1,1,D
+AUT1,St. Polten,Hartberg,2,2,D,2,1,H
+AUT1,Sturm Graz,Admira Wacker,3,0,H,1,0,H
+AUT1,Rapid Wien,WSG Tirol,0,3,A,0,2,A
+AUT1,Wolfsberger AC,Austria Wien,3,2,H,1,1,D
+AUT1,Salzburg,LASK Linz,3,1,H,0,1,A
+AUT1,Admira Wacker,Rapid Wien,0,1,A,0,1,A
+AUT1,Hartberg,R. Altach,1,0,H,0,0,D
+AUT1,Sturm Graz,St. Polten,3,0,H,1,0,H
+AUT1,Salzburg,Wolfsberger AC,2,3,A,0,0,D
+AUT1,WSG Tirol,Ried,1,3,A,1,0,H
+AUT1,Austria Wien,LASK Linz,1,1,D,1,1,D
+AUT1,Wolfsberger AC,Sturm Graz,0,0,D,0,0,D
+AUT1,Rapid Wien,Sturm Graz,4,1,H,2,1,H
+AUT1,Ried,Austria Wien,0,1,A,0,1,A
+AUT1,St. Polten,Admira Wacker,2,2,D,2,1,H
+AUT1,Wolfsberger AC,Hartberg,0,0,D,0,0,D
+AUT1,R. Altach,Salzburg,0,2,A,0,0,D
+AUT1,LASK Linz,WSG Tirol,2,4,A,2,3,A
+AUT1,Admira Wacker,Austria Wien,0,4,A,0,0,D
+AUT1,Sturm Graz,Hartberg,2,1,H,2,0,H
+AUT1,Rapid Wien,St. Polten,2,1,H,1,1,D
+AUT1,Salzburg,Ried,3,0,H,3,0,H
+AUT1,WSG Tirol,R. Altach,3,1,H,3,1,H
+AUT1,Wolfsberger AC,LASK Linz,0,3,A,0,0,D
+AUT1,Hartberg,Salzburg,0,3,A,0,2,A
+AUT1,R. Altach,Sturm Graz,2,1,H,2,1,H
+AUT1,Ried,Admira Wacker,0,0,D,0,0,D
+AUT1,Austria Wien,WSG Tirol,2,2,D,1,0,H
+AUT1,St. Polten,Wolfsberger AC,0,2,A,0,1,A
+AUT1,LASK Linz,Rapid Wien,1,2,A,1,2,A
+AUT1,Sturm Graz,Ried,2,1,H,1,0,H
+AUT1,Rapid Wien,Wolfsberger AC,1,0,H,1,0,H
+AUT1,Admira Wacker,R. Altach,3,1,H,1,0,H
+AUT1,St. Polten,LASK Linz,1,3,A,0,2,A
+AUT1,Salzburg,Austria Wien,3,1,H,0,0,D
